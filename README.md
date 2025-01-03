@@ -36,3 +36,13 @@ Follow these steps to get started:
    ```bash
    git clone https://github.com/makarostrainingandconsulting/from-zero-to-bash.git
    cd from-zero-to-bash
+
+## About the Book:
+This repository is specifically designed for the readers of *From Zero to Bash: Essential Skills, Advanced Results*. It provides a hands-on way to apply the lessons and concepts you will encounter throughout the book.
+
+---
+
+![From Zero to Bash Book Cover](slogan_cover_book.jpg)
+
+*Ready to master Bash scripting and take your Linux skills to the next level? Get your copy of "From Zero to Bash: Essential Skills, Advanced Results" today!*
+
